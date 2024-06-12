@@ -1,4 +1,4 @@
-# Rezaul Karim Reaz
+# Md Rejaul Karim
 ## I am a Front-end Developer.
 
 ![I am a Front-end Developer.](https://i.ibb.co/zHJDgMd/banner-full-w.png)
